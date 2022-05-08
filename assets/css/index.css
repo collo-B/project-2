@@ -70,3 +70,45 @@ margin-top: 50px;
     margin-top: 150px;
     margin-left: 20px;
 }
+.container {
+    margin-top: 20px;
+}
+.moverscontainer {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+}
+.moverspics {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.moverspicss {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.moverspicsp {
+    text-align: center;
+    position: relative;
+    width: 25%;
+}
+.btnspics {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: relative;
+    width: 25%;
+}
+.btn {
+    border: 1px solid;
+}
+.chapchap12 {
+width: 30%;
+}
