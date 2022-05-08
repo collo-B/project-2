@@ -163,11 +163,13 @@ color: white;
 .pg2class1 {
     display: flex;
     justify-content: space-between;
+    background-color: black;
 }
 .pgheader {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    background-color: black;
 }
 .moderndiv {
     margin-left: 50px;
@@ -190,14 +192,224 @@ color: white;
 }
 .pgform {
     margin-top: 100px;
+    border: 1px solid;
+    border-color: grey;
+    border-radius: 8px;
 }
 #kayley {
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
     border: 1px solid;
+    background-color: grey;
+    border-color: grey;
 }
 .pgformbtn {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border: 1px solid;
+    border-color: grey;
+}
+.pgcontainer1 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.pgsection3 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.pgcontainer2 {
     margin-top: 20px;
     margin-bottom: 20px;
+    color: #000;
+    margin-left: 20px;
+    border: 1px solid;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-color: grey;
+}
+.pg2links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 1px solid;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-color: grey;
+    margin-left: 20px;
+}
+.sndpgbtns {
+    border: 1px solid;
+    border-color: grey;
+}
+.description {
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+    margin-left: 20px;
+    border: 1px solid;
+    border-color: grey;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.descriptpg {
+    margin-top: 20px;
+    border: 1px solid;
+    border-color: grey;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+.pgcontainer3 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+
+}
+.features {
+    border: 1px solid;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-color: grey;
+    margin-left: 20px;
+}
+.conditioning {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-color: grey;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+#lid {
+    list-style: symbols(☑ );
+    color: grey;
+}
+.heed1 {
+    margin-top: 40px;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.heed123 {
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.heed_images {
+    display: flex;
+    flex-direction: row;
+    float: inline-start;
+    justify-content: space-between;
+}
+.moveimg {
+    width: 40%;
+}
+.pheed {
+    align-items: center;
+    margin-left: 30px;
+}
+.heeddd {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: relative;
     border: 1px solid;
 }
+.heedbtn1 {
+  border: 1px solid;
+  border-color: grey;  
+}
+.heedbtn2 {
+    border: 1px solid;
+    border-color: grey;  
+  }
+  .heedbtn3 {
+    border: 1px solid;
+    border-color: grey;  
+  }
+  .heedbtn4 {
+    border: 1px solid;
+    border-color: grey;  
+  }
+  .pg2last {
+      display: flex;
+      flex-direction: column;
+      margin-top: 20px;
+      background-color: black;
+  }
+  .dreams {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      margin-top: 20px;
+      margin-bottom: 20px;
+  }
+  .pg2icons {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      margin-top: 20px;
+      margin-bottom: 20px;
+  }
+  #ulid {
+      display: flex;
+      flex-direction: column;
+  }
+  .idp {
+      color: white;
+      font-size: x-large;
+  }
+  #emphasize {
+      color: #FAFF00;
+      font-size: x-large;
+  }
+  .lastlink2 {
+      color: black;
+      font-size: x-large;
+      background-color: #FAFF00;
+      border-bottom-right-radius: 8px;
+  }
+  #empth {
+      color: white;
+  }
+  #lasthead {
+      color: white;
+  }
+  #ulid > li {
+      color: white;
+  }
+  #icondd {
+      color: white;
+  }
+  #foster {
+      color: white;
+      font-size: x-large;
+  }
+  #modern {
+      color: white;
+      font-size: x-large;
+  }
+  .blink {
+      color: white;
+  }
+  .pglink {
+      color: black;
+      background-color: #FAFF00;
+  }
+  #pit {
+      color: white;
+  }
+  .pglink1 {
+      color: #FAFF00;
+  }
+  #learnlink {
+    color: white;
+    background-color: black;
+    border-top-right-radius: 8px;
+  }
+  #pit2 {
+      color: #FAFF00;
+  }
