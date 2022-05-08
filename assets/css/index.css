@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Poppins","Actor","Adamina";
+    font-weight: 400;
+    width: 100%;
+}
+h2 span {
+    color: #000;
+}
+a{
+    text-decoration:none;
+}
+ul{
+    display:flex;
+    align-items: center;
+    flex-direction: row;
+    float: right;
+    clear: both;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+    margin: 20px;
+    font-weight: 700;
+}
+#pg1head {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.header {
+    background-image: url(/assets/images/moving\ 1.png);
+    background-size: 400px 400px;
+    
+}
+.header1 {
+height: 400px;
+width: 400px;
+margin-top: 50px;
+}
+.p1 {
+    color: #FAFF00;
+    align-items: center;
+    font-size: xx-large;
+    text-align: center;
+}
+.p2 {
+    color: whitesmoke;
+    align-items: center;
+    text-align: center;
+    font-size: larger;
+}
+.hero_image {
+    height: 500px;
+    width: 500px;
+    margin-top: 20px;
+}
+.hero_container {
+    display: flex;
+    flex-direction: row;
+}
+.hero_text {
+    text-align: center;
+    font-size: xx-large;
+    align-items: center;
+    margin-top: 150px;
+    margin-left: 20px;
+}
