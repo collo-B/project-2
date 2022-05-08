@@ -160,3 +160,44 @@ color: white;
     background-color: black;
     border-top-right-radius: 15px;
 }
+.pg2class1 {
+    display: flex;
+    justify-content: space-between;
+}
+.pgheader {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.moderndiv {
+    margin-left: 50px;
+}
+.fosterdiv {
+    margin-right: 50px;
+}
+.nav {
+    margin-right: 50px;
+}
+.pgcontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.pp2imgg {
+    background-size: 200px 200px;
+    margin-top: 20px;
+}
+.pgform {
+    margin-top: 100px;
+}
+#kayley {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid;
+}
+.pgformbtn {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid;
+}
