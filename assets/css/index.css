@@ -415,3 +415,11 @@ margin-bottom: 20px;
   #pit2 {
       color: #FAFF00;
   }
+  .pgsection1 > .pgcontainer > .pgimg1 >img {
+    height: 800px;
+    width: 800px;
+  }
+  .form {
+      height: 800px;
+      width: 800px;
+  }
