@@ -33,7 +33,7 @@ li{
     justify-content: space-between;
 }
 .header {
-    background-image: url(/assets/images/moving\ 1.png);
+    background-image: url("../images/moving1.png");
     height: max-content;
     background-size: cover;
     background-repeat: repeat;
